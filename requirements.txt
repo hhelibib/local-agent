@@ -1,0 +1,2 @@
+﻿# Python 3.8+ recommended. Pin loosely for local agent use.
+requests>=2.31.0
